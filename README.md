@@ -143,6 +143,3 @@ Le code est structuré selon le modèle **MVC (Model-View-Controller)** ou Sépa
 - 🖥️ **Interface Web Frontend** : [Lien vers le Frontend](https://...)
 ```
 
-### 💡 Petits conseils pour finaliser :
-1. Avant de rendre, n'oublie pas de **modifier la section "Technologies utilisées"** si tu as finalement opté pour Python ou Java au lieu de Node.js.
-2. Si tu n'as pas fait les parties optionnelles (Swagger, Déploiement), **supprime simplement la dernière section "Livrables et Liens utiles"** dans ton fichier final.
